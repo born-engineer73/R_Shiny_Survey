@@ -1,0 +1,13 @@
+name: unique-id
+title: unique-id
+username: vaibhav-73
+account: vaibhav-73
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11061664
+bundleId: 8195283
+url: https://vaibhav-73.shinyapps.io/unique-id/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
